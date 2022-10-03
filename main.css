@@ -1,0 +1,68 @@
+header{
+    background-color: aqua;
+}
+
+.menu{
+
+    display: flex; 
+    justify-content:space-between;
+    border:3px solid red;
+    width: 100%;
+}
+
+section{
+    display: flex;
+  
+}
+.flex {
+    display: flex;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.flex2{
+   justify-content: flex-end;
+}
+
+nav{
+    margin: 0;
+    padding: 0;
+}
+
+.menup ul li{
+    margin:30px;
+
+}
+
+.menup ul{
+    display: flex;
+
+}
+
+
+.hb {
+   width: 300px;
+   height: 300px;
+   border-radius: 15px;
+
+}
+
+.act1 {
+    width: 400px;
+    height: 600px;
+    border-radius: 15px;
+}
+.act2 {
+        width: 400px;
+        height: 200px;
+        border-radius: 15px;  
+} 
+
+footer{
+    background-color: aqua;
+}
+
+
+
